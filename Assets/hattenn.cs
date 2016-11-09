@@ -81,5 +81,3 @@ public class hattenn : MonoBehaviour
 
 
 
-
->>>>>>> a51e5a88a5444d09e170b88f1e232dc7c8d8ab5d
