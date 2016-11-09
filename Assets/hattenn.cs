@@ -56,6 +56,30 @@ public class hattenn : MonoBehaviour
         }
         //whileから抜けると表示
         Debug.Log("MPが足りないため魔法が使えない。");
+        //魔法用の関数を呼び出す
+        Magic(5);
+        // 攻撃用の関数を呼び出す
+        Attack();
+        // 防御用の関数を呼び出す
+        Defence(3);
     }
+
+    void Update()
+    {
+
+    }
+
+
+
+
+
+
 }
 
+
+ 
+
+
+
+
+>>>>>>> a51e5a88a5444d09e170b88f1e232dc7c8d8ab5d
